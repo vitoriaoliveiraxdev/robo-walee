@@ -6,3 +6,6 @@ Robô autônomo usando a plataforma Arduino que consegue perceber o ambiente e s
 
 ## Autor 
 Vitória Oliveira. 
+
+## Simulador do Projeto
+[tinkercad](https://www.tinkercad.com/things/g58qfgjLQjh-robo-walee-lt3)
